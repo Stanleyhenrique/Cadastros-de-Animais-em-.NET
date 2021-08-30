@@ -1,0 +1,5 @@
+C:\Users\craqu\OneDrive\Área de Trabalho\Nova pasta\DIO.Animais\obj\Debug\net5.0\DIO.Animais.csproj.AssemblyReference.cache
+C:\Users\craqu\OneDrive\Área de Trabalho\Nova pasta\DIO.Animais\obj\Debug\net5.0\DIO.Animais.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\craqu\OneDrive\Área de Trabalho\Nova pasta\DIO.Animais\obj\Debug\net5.0\DIO.Animais.AssemblyInfoInputs.cache
+C:\Users\craqu\OneDrive\Área de Trabalho\Nova pasta\DIO.Animais\obj\Debug\net5.0\DIO.Animais.AssemblyInfo.cs
+C:\Users\craqu\OneDrive\Área de Trabalho\Nova pasta\DIO.Animais\obj\Debug\net5.0\DIO.Animais.csproj.CoreCompileInputs.cache
